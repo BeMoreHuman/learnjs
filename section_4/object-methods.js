@@ -5,7 +5,6 @@
 // sum() возвращает сумму этих двух значений
 // mul() возвращает произведение этих двух значений
 var calculator = {
-	// ...ваш код...
 	read: function() {
 		this.firstNumber = Number(prompt('a?', 0));
 		this.secondNumber = Number(prompt('b?', 0));
